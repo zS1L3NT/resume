@@ -159,7 +159,7 @@
   [Finpoint], [Laravel, PHP, React, TypeScript, Sqlite], [Apr. 2026 -- Present],
   list(
     [Built a personal finance tracker that consolidates transactions across multiple banks],
-    [Categorized imported transactions into financial records for clearer spending analysis],
+    [Categorised imported transactions into financial records for clearer spending analysis],
   ),
 )
 
@@ -174,7 +174,7 @@
 #project(
   [SounDroid V2], [Flutter, Dart, Express, TypeScript, Firebase], [Apr. 2022 -- Aug. 2022],
   list(
-    [Built a full-stack mobile music streaming app with synchronized lyrics, offline downloads, and queue management],
+    [Built a full-stack mobile music streaming app with synchronised lyrics, offline downloads, and queue management],
     [Built user flows for authentication, account management, playlists, and search history],
   ),
 )
